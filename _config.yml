@@ -1,0 +1,11 @@
+# Configuración básica
+title: mmc_studios
+description: Pagina web de escenarios de videojuegos
+
+# Configuración de la URL base (ajusta según tu caso)
+baseurl: "/"
+
+# Configuración del tema (si estás utilizando uno)
+theme: minima
+
+# Más configuraciones
